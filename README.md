@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-![Sales Forecasting & Revenue Analytics Dashboard](dashboard/dashboard_screenshot.jpg)
+![Customer Churn Analytics & Retention Strategy Dashboard](dashboard/dashboard_screenshot.jpg)
 
 
 🔗 **Dashboard Link:**  
