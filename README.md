@@ -1,5 +1,10 @@
 # 📊 Customer Churn Analytics & Retention Strategy Dashboard
 
+## 📊 Dashboard Preview
+
+![Sales Forecasting & Revenue Analytics Dashboard](dashboard/dashboard_screenshot.png)
+
+
 🔗 **Dashboard Link:**  
 https://lookerstudio.google.com/reporting/4104056e-dc81-41a3-b43f-9043bce2784b
 
